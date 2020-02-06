@@ -26,5 +26,4 @@ We are scraping following details of a movie from the IMDB website.
 #### For reference:
 * (More Depth) https://realpython.com/beautiful-soup-web-scraper-python/
 * (Difference Between Crawling and Scrapping) https://blog.datahut.co/how-to-build-a-web-crawler-from-scratch/
-#### Using Python Scrapy: 
-https://medium.com/better-programming/develop-your-first-web-crawler-in-python-scrapy-6b2ee4baf954
+
