@@ -1,13 +1,13 @@
 # WebScraper
 To scrape multiple web pages with Python using BeautifulSoup and requests.
-## What we are Scraping
+## What are we Scrapping
 We are scraping following movie details from IMDB website.
 * Name
 * Year
 * IMDB rating
 * Meta score
 * Votes
-<img src="https://www.dataquest.io/wp-content/uploads/2019/01/option3.jpg" alt="drawing" width="500"/>
+<img src="https://www.dataquest.io/wp-content/uploads/2019/01/option3.jpg" alt="drawing" width="400"/>
 
 ###### Third party Packages
 
