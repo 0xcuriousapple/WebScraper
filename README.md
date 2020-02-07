@@ -22,7 +22,6 @@ We are scraping following details of a movie from the IMDB website.
     ```
     This allows us to search & extract content from an HTML webpage
 
-#### Tutorial: https://www.dataquest.io/blog/web-scraping-beautifulsoup/
 #### For reference:
 * (More Depth) https://realpython.com/beautiful-soup-web-scraper-python/
 * (Difference Between Crawling and Scrapping) https://blog.datahut.co/how-to-build-a-web-crawler-from-scratch/
