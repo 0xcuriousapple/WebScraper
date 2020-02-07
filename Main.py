@@ -32,7 +32,7 @@ votes = []
 start_time = time()
 requests = 0
 
-# For every year in the interval 2000-2017
+# For every year in the interval 2005-2019
 for year_url in years_url:
 
     # For every page in the interval 1-4
