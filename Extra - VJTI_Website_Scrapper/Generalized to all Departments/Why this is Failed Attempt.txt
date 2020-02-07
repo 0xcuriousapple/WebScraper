@@ -1,0 +1,12 @@
+Failed Attempt :
+    I was trying to genralize web scraping to all departments, but they all dont have common semantics.
+    So for each department one will have to write differnet scrapper as each department page have differnet structure.
+    for example 
+    Order of columns in table : Designation is first in civil while name is first in comp
+    There is no column for photo in comp
+    Specialisation in electrical is written as Specilization in civil and [MS]Specialization in comp
+    Extension in Civil and Electrical is written as Phone in Comp
+    We can solve this naming conflict by hard-coding but there are conflicts in structure of HTML too
+    Content in <span> in civil while in <p> for electrical.
+    and many more...
+   
